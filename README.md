@@ -49,9 +49,8 @@ To run this project, follow these steps:
 
 ## Project Structure
 
-- `car_control.py`: Main script to control the car and process the camera feed.
-- `servo_control.py`: Script to manage the servo motor and camera movement.
-- `assets/`: Folder for any visual assets or example images used in object detection.
+- `vision.py`: Main script to control the car and process the camera feed.
+- `main.py`: Script to manage the servo motor and camera movement.
 - `README.md`: Project description and instructions.
 
 ## License
